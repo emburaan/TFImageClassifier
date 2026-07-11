@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local configuration (SDK path, machine-specific)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+
+# APK / bundle outputs
+*.apk
+*.aab
+
+# Log files
+*.log
+
+# macOS
+.DS_Store

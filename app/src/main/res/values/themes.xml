@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose-only app: Theme.Material3 base keeps the status-bar consistent.
+         All UI theming is done in TFClassifierTheme.kt. -->
+    <style name="Theme.TFImageClassifier" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
