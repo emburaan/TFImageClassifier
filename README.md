@@ -2,6 +2,12 @@
 
 An on-device image classification app for Android. Pick an image from the gallery or capture one with the camera, and the app classifies it locally using a MobileNet v1 model running on TensorFlow Lite — no network connection required.
 
+## Screenshots
+
+| Home | Result |
+|:---:|:---:|
+| <img src="screenshots/home.png" width="270" alt="Home screen"/> | <img src="screenshots/result.png" width="270" alt="Result screen — golden retriever classified at 75.5%"/> |
+
 ## Features
 
 - 📷 Classify images from the **camera** or **gallery**
